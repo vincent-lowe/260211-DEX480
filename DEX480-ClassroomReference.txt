@@ -1,4 +1,4 @@
-#### DEX475 - API Design with Mulesoft Reference - YYMMDD - TZ
+#### DEX480 - DataWeave - YYMMDD - TZ
 
 Instructor Name
 
@@ -14,12 +14,12 @@ Salesforce Mimeo:		      https://salesforce.mimeo.digital/MuleSoft
 eBook Redemption Key:		USZZZZZZZZZZ
 
 -------------------------------------------------------------------------------------------------------------------
-Survey Link:				https://www.research.net/r/trailheadacademy
+Survey Link:			https://www.research.net/r/trailheadacademy
 
 Survey ID:				XXXXXXX
 
 -------------------------------------------------------------------------------------------------------------------
-Class System Setup (pre-class): https://trailhead.salesforce.com/help?article=Computer-Setup-Guide-for-MuleSoft-Expert-Led-Classes#DEX475
+Class System Setup (pre-class): https://trailhead.salesforce.com/help?article=Computer-Setup-Guide-for-MuleSoft-Expert-Led-Classes#DEX480
 
 DataWeave Playground:
 https://dataweave.mulesoft.com/learn/

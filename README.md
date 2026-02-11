@@ -55,6 +55,7 @@ Classroom Playlist
 |-----------|------|-----|
 |Smooth Criminal|Luca Stricagnoli||
 |The Hitter|Mark Erelli|Mark wrote this about his son|
+|California|Rebecca Loebe||
 
 
 

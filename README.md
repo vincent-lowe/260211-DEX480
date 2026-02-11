@@ -53,6 +53,9 @@ Classroom Playlist
 
 |Track Title|Artist|Notes|
 |-----------|------|-----|
+|Smooth Criminal|Luca Stricagnoli||
+|The Hitter|Mark Erelli|Mark wrote this about his son|
+
 
 
 

@@ -63,5 +63,6 @@ Classroom Playlist
 |The Street Beater|Quincy Jones|TV theme from Sanford and Son|
 |My Rifle, My Pony, and Me|Ricky Nelson with Dean Martin|From the movie Rio Bravo|
 |Dos Oruguitas|Steven Joseph|Intrumental cover of the song from Encanto|
+|Crazy He Calls Me|Billie Holiday||
 
 

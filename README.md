@@ -61,4 +61,7 @@ Classroom Playlist
 |Good Day for a Good Day|Michael Franti||
 |Sixteen Tons|Geoff Castellucci|All voices on the track are Geoff|
 |The Street Beater|Quincy Jones|TV theme from Sanford and Son|
+|My Rifle, My Pony, and Me|Ricky Nelson with Dean Martin|From the movie Rio Bravo|
+|Dos Oruguitas|Steven Joseph|Intrumental cover of the song from Encanto|
+
 

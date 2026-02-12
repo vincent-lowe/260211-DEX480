@@ -58,7 +58,6 @@ Classroom Playlist
 |California|Rebecca Loebe||
 |Here We Go Again|Ray Charles and Norah Jones||
 |Ain't Misbehavin|Leon Redbone||
-
-
+|Good Day for a Good Day|Michael Franti||
 
 
